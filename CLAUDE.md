@@ -13,7 +13,7 @@ Status: **docs-only — no code yet**. Not a Qt app; this is the only web projec
 - `icons/` holds brand icon variants for the stores — primary visual asset for the site.
 
 ## Design
-- Follow suite design language: dark theme base `#1E1E2E`, text `#F8F8F2` / `#A9B1D6`, per-store accent colors:
+- Follow suite design language: dark theme base `#212826`, text `#F8F8F2` / `#ACADAD`, per-store accent colors:
   brew `#FFC107` · winget `#0078D4` · choco `#7B3F00` · scoop `#008080` · apt `#D32F2F` · pacman `#FF5722` · yay `#4CAF50` · snap `#822007` · flatpak `#CDDC39` · nix `#528EBF`
 - Fonts: Outfit/Inter (headings/body), Fira Code or JetBrains Mono (code).
 - Each store card uses its accent color + icon from `icons/`.
